@@ -1,3 +1,4 @@
+[![Board Status](https://codedev.ms/kb1/ba5e8132-8530-4b84-baa3-abf11056b91c/7acde364-3d21-4579-8baa-cf7d78bcfdf3/_apis/work/boardbadge/f2ecfd49-2ab6-427e-8054-64414fc323a6)](https://codedev.ms/kb1/ba5e8132-8530-4b84-baa3-abf11056b91c/_boards/board/t/7acde364-3d21-4579-8baa-cf7d78bcfdf3/Microsoft.RequirementCategory)
 # Azure DevOps Web Sample Extension
 
 [![Build Status](https://dev.azure.com/ms/azure-devops-extension-sample/_apis/build/status/Microsoft.azure-devops-extension-sample)](https://dev.azure.com/ms/azure-devops-extension-sample/_build/latest?definitionId=14)
